@@ -1,0 +1,18 @@
+LAPORAN AKHIR - Resto Rasa Nusantara
+
+RIWAYAT TRANSAKSI
+No   ID       Pelanggan    Menu                   Kategori   Jumlah        Total
+1    ACT-01   Iwan         Paket Steak Premium    Premium         3       450000
+2    ACT-02   Jeni         Es Teh Ekonomis        Ekonomis        2        10000
+3    ACT-02   Jeni         Paket Steak Premium    Premium         1       150000
+
+SISA STOK MENU
+Kode     Menu                   Kategori     Stok
+OBJ-A    Paket Steak Premium    Premium         6
+OBJ-B    Nasi Goreng Reguler    Reguler         2
+OBJ-C    Es Teh Ekonomis        Ekonomis       48
+
+TOTAL BELANJA PELANGGAN
+ID       Nama                Total
+ACT-01   Iwan               450000
+ACT-02   Jeni               160000
